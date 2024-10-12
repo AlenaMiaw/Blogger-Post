@@ -23,6 +23,33 @@
             "https://gambar.com/chapter2.2.png",
             "https://gambar.com/chapter2.3.png"
           ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://gambar.com/chapter2.1.png",
+              "https://gambar.com/chapter2.2.png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://gambar.com/chapter2.1.png",
+              "https://gambar.com/chapter2.2.png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://gambar.com/chapter2.1.png",
+              "https://gambar.com/chapter2.2.png",
+              "https://gambar.com/chapter2.3.png"
+            ]
         }
       ]
     }
