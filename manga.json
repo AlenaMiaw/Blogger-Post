@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Naruto Shippuden",
+      "gambar": "https://gambar.com/1.jpg",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://gambar.com/chapter1.1.png",
+            "https://gambar.com/chapter1.2.png",
+            "https://gambar.com/chapter1.3.png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://gambar.com/chapter2.1.png",
+            "https://gambar.com/chapter2.2.png",
+            "https://gambar.com/chapter2.3.png"
+          ]
+        }
+      ]
+    }
+  ]
+  
