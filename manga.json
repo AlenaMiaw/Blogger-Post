@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "name": "Naruto Shippuden",
-      "gambar": "https://gambar.com/1.jpg",
+      "name": "Mommy Kafka 01",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
       "description": "A ninja who dreams of becoming Hokage.",
       "slug": "naruto-shippuden",
       "chapters": [
@@ -10,26 +10,26 @@
           "chapter": 1,
           "sinopsis": "Naruto starts his journey.",
           "images": [
-            "https://gambar.com/chapter1.1.png",
-            "https://gambar.com/chapter1.2.png",
-            "https://gambar.com/chapter1.3.png"
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
           ]
         },
         {
           "chapter": 2,
           "sinopsis": "Naruto fights his first battle.",
           "images": [
-            "https://gambar.com/chapter2.1.png",
-            "https://gambar.com/chapter2.2.png",
-            "https://gambar.com/chapter2.3.png"
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
           ]
         },
         {
             "chapter": 3,
             "sinopsis": "Naruto fights his first battle.",
             "images": [
-              "https://gambar.com/chapter2.1.png",
-              "https://gambar.com/chapter2.2.png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
               "https://gambar.com/chapter2.3.png"
             ]
         },
@@ -37,18 +37,342 @@
             "chapter": 4,
             "sinopsis": "Naruto fights his first battle.",
             "images": [
-              "https://gambar.com/chapter2.1.png",
-              "https://gambar.com/chapter2.2.png",
-              "https://gambar.com/chapter2.3.png"
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
             ]
         },
         {
             "chapter": 5,
             "sinopsis": "Naruto fights his first battle.",
             "images": [
-              "https://gambar.com/chapter2.1.png",
-              "https://gambar.com/chapter2.2.png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mommy Kafka 02",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
               "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mommy Kafka 03",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mommy Kafka 04",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mommy Kafka 05",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mommy Kafka 06",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
+            ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mommy Kafka 07",
+      "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png",
+      "description": "A ninja who dreams of becoming Hokage.",
+      "slug": "naruto-shippuden",
+      "chapters": [
+        {
+          "chapter": 1,
+          "sinopsis": "Naruto starts his journey.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
+          ]
+        },
+        {
+          "chapter": 2,
+          "sinopsis": "Naruto fights his first battle.",
+          "images": [
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
+            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
+          ]
+        },
+        {
+            "chapter": 3,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
+              "https://gambar.com/chapter2.3.png"
+            ]
+        },
+        {
+            "chapter": 4,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
+            ]
+        },
+        {
+            "chapter": 5,
+            "sinopsis": "Naruto fights his first battle.",
+            "images": [
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
+              "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
             ]
         }
       ]
