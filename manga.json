@@ -1,1300 +1,367 @@
 [
-  {
-    "id": 1,
-    "name": "Mommy Kafka 01",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "manga",
-    "slug": "naruto-shippuden",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
+    {
+        "id": 1,
+        "name": "Arty Huang (Arty亚缇) and KaYa Huang (萱) cosplay Raiden Shogun Ei and Yae Miko - Genshin Impact",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/001.jpg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/022.jpg",
+        "description": "Cosplay of Arty Huang (Arty亚缇) and KaYa Huang (萱) in Genshin Impact.",
+        "author": "Arty Huang (Arty亚缇)",
+        "genre": ["Genshin", "Game"],
+        "rating": "6.2",
+        "progres": "Complete",
+        "tag": "Cosplay",
+        "type": "Lewd",
+        "donlot": "https://ouo.io/k3xtYf",
+        "slug": "arty-huang",
+        "chapters": [
+            {
+                "chapter": 1,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) and KaYa Huang (萱) in Genshin Impact.",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/001.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/002.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/003.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/004.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/005.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/006.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/007.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/008.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/009.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/010.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/011.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/012.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/013.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/014.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/015.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/016.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/017.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/018.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/019.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/020.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/021.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/022.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/023.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/024.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/025.jpg"
+                ]
+            },
+            {
+                "chapter": 2,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) and KaYa Huang (萱) in Genshin Impact.",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/026.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/027.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/028.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/029.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/030.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/031.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/032.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/033.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/034.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/035.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/036.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/037.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/038.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/039.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/040.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/041.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/042.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/043.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/044.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/045.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/046.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/047.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/048.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/049.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/050.jpg"
+                ]
+            },
+            {
+                "chapter": 3,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) and KaYa Huang (萱) in Genshin Impact.",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/051.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/052.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/053.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/054.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/055.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/056.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/057.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/058.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/059.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/060.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/061.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/062.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/063.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/064.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/065.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/066.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/067.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/068.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/069.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/070.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/071.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/072.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/073.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/074.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20and%20KaYa%20Huang%20(%E8%90%B1)%20cosplay%20Raiden%20Shogun%20Ei%20and%20Yae%20Miko%20-%20Genshin%20Impact/075.jpg"
+                ]
+            }
         ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+    },
+    {
+        "id": 2,
+        "name": "Arty Huang (Arty亚缇) cosplay Ayaka Kamisato - Genshin Impact",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-1.jpg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-40.jpg",
+        "description": "Cosplay of Arty Huang (Arty亚缇) Ayaka Kamisato Genshin Impact",
+        "author": "Arty Huang (Arty亚缇)",
+        "genre": ["Genshin", "Game"],
+        "rating": "10.9",
+        "progres": "Complete",
+        "tag": "Cosplay",
+        "type": "Lewd",
+        "donlot": "https://ouo.io/k3xtYf",
+        "slug": "kamisato-ayaka",
+        "chapters": [
+            {
+                "chapter": 1,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) Ayaka Kamisato Genshin Impact",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-1.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-2.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-3.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-4.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-5.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-6.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-7.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-8.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-9.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-10.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-11.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-12.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-13.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-14.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-15.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-16.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-17.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-18.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-19.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-20.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-21.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-22.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-23.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-24.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-25.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-26.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-27.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-28.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-29.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-30.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-31.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-32.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-33.jpg"
+                ]
+            },
+            {
+                "chapter": 2,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) Ayaka Kamisato Genshin Impact",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-34.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-35.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-36.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-37.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-38.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-39.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-40.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-41.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-42.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-43.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-44.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-45.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-46.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-47.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-48.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-49.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-50.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-51.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-52.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-53.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-54.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-55.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-56.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-57.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-58.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-60.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-61.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-62.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-63.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-64.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-65.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-66.jpg"
+                ]
+            },
+            {
+                "chapter": 3,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) Ayaka Kamisato Genshin Impact",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-67.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-68.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-69.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-70.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-71.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-72.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-73.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-74.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-75.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-76.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-77.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-78.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-79.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-80.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-81.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-82.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-83.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-84.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-85.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-86.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-87.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-88.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-89.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-90.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-91.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-92.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-93.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-94.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-95.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-96.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-97.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-98.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-99.jpg"
+                ]
+            },
+            {
+                "chapter": 4,
+                "sinopsis": "Cosplay of Arty Huang (Arty亚缇) Ayaka Kamisato Genshin Impact",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-100.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-101.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-102.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-103.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-104.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-105.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-106.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-107.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-108.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-109.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-110.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-111.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-112.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-113.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-114.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-115.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-116.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-117.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-118.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-119.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-120.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-121.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-122.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-123.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-124.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-125.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-126.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-127.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-128.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-129.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-130.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-131.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-132.jpg"
+                ]
+            }
         ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Mommy Kafka 02",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "manga",
-    "slug": "momika-02",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
+    },
+    {
+        "id": 3,
+        "name": "Hakari Hanazono Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+        "gambar": "https://apps.owibu.com/wp-content/uploads/2024/01/136764.jpg",
+        "tamnel": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFKgo6tRlvtptIDzNUWO3xNuWru2VYoKpaCAaESwhJTa5XWaejG5S1j78Ltw98SCdLOTKvBkT9fsqwFUYturHsxDD46lmbXHD2cW7u2KBg-FEpDHXzQl4U-cu6ekkhubmsc1jyevC0ZM29_QFydeI0xLtr-fouLhrbAnQvPp1Luv2GaALBGq6NlBzNj6g/s1153/Hakari-Hanazono-Kimi-no-Koto-ga-Daidaidaidaidaisuki-na-100-nin-no-Kanojo-20-768x1153.jpg",
+        "description": "Rentarou Aijou memiliki segalanya: penampilan, kecerdasan, keterampilan atletik, dan popularitas di antara teman sebaya dan para mentor. Sayangnya, tidak ada dari kualitas-kualitas ini yang membantu Rentarou dalam kehidupan cintanya. Pada hari kelulusan SMP-nya, dia sekali lagi ditolak oleh seorang gadis yang dia akui, meraih penolakan yang ke-100 berturut-turut. Down on his luck, he goes to a matchmaking shrine and wishes to finally get a girlfriend in high school.",
+        "author": "Rikito Nakamura",
+        "genre": ["Parody", "Comedy", "Harem"],
+        "rating": "9.89",
+        "progres": "Complete",
+        "tag": "Anime",
+        "type": "Hentai",
+        "donlot": "https://ouo.io/k3xtYf",
+        "slug": "hakari-hanazono",
+        "chapters": [
+            {
+                "chapter": 1,
+                "sinopsis": "Hyakkano and 君のことが大大大大大好きな100人の彼女",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Hakari-Hanazono/Hakari-Hanazono.png"
+                ]
+            }
         ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
+    },
+    {
+        "id": 4,
+        "name": "Inda Karane (院いん田だ 唐から音ね)",
+        "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcLC3gY_J4ZQJXAigOO2PY-kF08BGTkeJC8sBXA0gVuo4Z_1_ZOzo-P8hQsQJtA9ZYoZxEkMbuvKQ1un3Gnykr3R85qhuOLEnMq5tfOGan7UzfPbdyRaFf-b1E-W7KuVMol8AUc1hfuKJsU8s7t8IxZh8i_7UGQWb7WEaFYiPx6yJWc4POi9ubzS18PE/s320/karane.jpg",
+        "tamnel": "https://apps.owibu.com/wp-content/uploads/2024/01/136764.jpg",
+        "description": "Inda Karane (院いん田だ 唐から音ね Inda Karane?) is a first year student at Ohananomitsu High School in Class 1-4 as well as Aijou Rentarou's first two girlfriends (alongside with Hanazono Hakari). She is an extreme tsundere, reacting violently to the compliments given by her boyfriend or her fellow girlfriends. However, she can occasionally be straightforward and honest with how she feels, though this takes great effort.",
+        "author": "Miyu Tomita",
+        "genre": ["Parody", "Comedy", "Harem"],
+        "rating": "8.00",
+        "progres": "Complete",
+        "tag": "Anime",
+        "type": "Hentai",
+        "donlot": "https://ouo.io/k3xtYf",
+        "slug": "inda-karane",
+        "chapters": [
+            {
+                "chapter": 1,
+                "sinopsis": "Karane has golden, shiny hair, divided into two pigtails with green bows, a flat chest and hazel eyes, and a slender figure. She wears a typical high school uniform with a beige sweater, underneath a white shirt and navy-blue skirt, as well as loafers with loose knee-length socks. She is quoted to be beautiful with desirable features, and at points, is hit on by other guys, much to her annoyance and Rentarou's jealousy.",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Karane/Karane.png"
+                ]
+            }
         ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Mommy Kafka 03",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "manga",
-    "slug": "momika-03",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png"
+    },
+    {
+        "id": 5,
+        "name": "Kirara Genshin",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin-tamnel.jpg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(2).png",
+        "description": "Desainer terkenal Chiori adalah pembuat model pakaian karakter Kirara di game Genshin Impact. Chiori menciptakan model pakaian Kirara dengan prinsip 'Memakaikan bunga-bunga yang indah ke tubuh seseorang dengan nyaman'",
+        "author": "Chiori",
+        "genre": ["Game", "Lewd", "Hentai"],
+        "rating": "3.00",
+        "progres": "Complete",
+        "tag": "Ai Generate",
+        "type": "Hentai",
+        "donlot": "https://ouo.io/k3xtYf",
+        "slug": "kirara-genshin",
+        "chapters": [
+            {
+                "chapter": 1,
+                "sinopsis": "Kirara adalah karakter baru yang diperkenalkan dalam update versi 3.7 Genshin Impact. Kirara adalah nekomata yang bekerja sebagai kurir di Komaniya Express, perusahaan pengiriman terkenal di Inazuma. Kirara merupakan pengguna elemen dendro pertama dari Inazuma.",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(1).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(2).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(3).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(4).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(5).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(6).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(7).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(8).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(9).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(10).png",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/main/HGambar/Kirara-Genshin/Kirara-genshin%20(11).png"
+                ]
+            }
         ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Mommy Kafka 04",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "manga",
-    "slug": "momika-04",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Mommy Kafka 05",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "manga",
-    "slug": "momika-akjsgfdg",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Mommy Kafka 06",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "manga",
-    "slug": "nomor-enam-6",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(5).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Mommy Kafka 07",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(7).png",
-    "description": "A ninja who dreams of becoming Hokage.",
-    "genre": ["shounen", "Action"],
-    "rating": "7.9",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "manga",
-    "slug": "naruto-hasu",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "baru 1",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/pesbuk/anime/084.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "bokep",
-    "slug": "naruto-jembut",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "baru 2",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/014.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "bokep",
-    "slug": "naruto-sd6655345",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "baru 3",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/013.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "bokep",
-    "slug": "naruto-004945765",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "baru 4",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/012.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "bokep",
-    "slug": "naruto-sjdhf",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "baru 5",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/011.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "bokep",
-    "slug": "naruto-634654534",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "baru 6",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/010.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "bokep",
-    "slug": "naruto-nenkos",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "baru 7",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/009.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "bokep",
-    "slug": "naruto-sldfkontol",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "baru 8",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/008.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "bokep",
-    "slug": "naruto-5235234",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "baru kjshkvjds",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/007.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "bokep",
-    "slug": "naruto-memkuaskdh",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "baru skkdjfksjd",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/006.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "bokep",
-    "slug": "naruto-sdjhfuitils",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "baru sjdgf",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/005.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "bokep",
-    "slug": "naruto-memeklik-jembut",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "baru sdkufh",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/004.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "bokep",
-    "slug": "naruto-asidy-twoies",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "baru 1skjdgf",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/003.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "anime",
-    "type": "bokep",
-    "slug": "naruto-123456789",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "baru 2sdsdfsd",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/002.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "cosplay",
-    "type": "bokep",
-    "slug": "naruto-009234",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "baru dksgfsdf",
-    "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/Random/random-anime/001.jpg",
-    "description": "data diambil dari folder pesbuk di akun cihuy collab, Lorem ipsum dolor sit amet kajhsgdjaysgdujahgfsudfyausyhfduaysfduafsdujafsudyfauysfduayfsduyafsudyf uysfaudgjahsdgu yagsuydf uasyfduaysgduyfa usyfduay sfdahsgduf asgd uafsdugasjhdfaujsyfdiauygsdu fasf dagyhsdujhfasudg",
-    "genre": ["Anime", "pepek"],
-    "rating": "69.8",
-    "progres": "ongoing",
-    "tag": "ai",
-    "type": "bokep",
-    "slug": "naruto-jshdfh121132434",
-    "chapters": [
-      {
-        "chapter": 1,
-        "sinopsis": "Naruto starts his journey.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(1).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(2).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(3).png"
-        ]
-      },
-      {
-        "chapter": 2,
-        "sinopsis": "Naruto fights his first battle.",
-        "images": [
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(4).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png",
-          "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(6).png"
-        ]
-      },
-      {
-          "chapter": 3,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(8).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(9).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Arty%20Huang%20(Arty%E4%BA%9A%E7%BC%87)%20cosplay%20Ayaka%20Kamisato%20-%20Genshin%20Impact/Kamisato-Ayaka-59.jpg"
-          ]
-      },
-      {
-          "chapter": 4,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(10).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(11).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(12).png"
-          ]
-      },
-      {
-          "chapter": 5,
-          "sinopsis": "Naruto fights his first battle.",
-          "images": [
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(13).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(14).png",
-            "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Tiny%20Asa%20-%20Mommy%20Kafka/Kafka-cosplay%20(15).png"
-          ]
-      }
-    ]
-  }
+    }
 ]
