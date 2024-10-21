@@ -10,7 +10,7 @@
         "rating": "21.3",
         "status": "On Going",
         "tag": "Random",
-        "type": "Random",
+        "type": ["Random", "Galeri"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "pesbuk-random",
@@ -607,7 +607,7 @@
         "rating": "5.3",
         "status": "Aired",
         "tag": "Random",
-        "type": "Lewd",
+        "type": ["Lewd", "Random", "Anime", "Hentai"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "random-lewd",
@@ -699,8 +699,8 @@
         "genre": ["Genshin", "Game"],
         "rating": "6.2",
         "status": "Complete",
-        "tag": "Complete",
-        "type": "Lewd",
+        "tag": "Cosplay",
+        "type": ["Cosplay", "Lewd", "Game"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "arty-huang",
@@ -814,7 +814,7 @@
         "rating": "10.9",
         "status": "Complete",
         "tag": "Cosplay",
-        "type": "Lewd",
+        "type": ["Cosplay", "Lewd", "Game"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "kamisato-ayaka",
@@ -992,7 +992,7 @@
         "rating": "9.89",
         "status": "Complete",
         "tag": "Anime",
-        "type": "Hentai",
+        "type": ["Anime", "Hentai"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "hakari-hanazono",
@@ -1018,7 +1018,7 @@
         "rating": "8.00",
         "status": "Complete",
         "tag": "Anime",
-        "type": "Hentai",
+        "type": ["Anime", "Hentai", "Lewd"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "inda-karane",
@@ -1044,7 +1044,7 @@
         "rating": "3.00",
         "status": "Complete",
         "tag": "Ai Generate",
-        "type": "Hentai",
+        "type": ["Ai Generate", "Game", "Hentai"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "kirara-genshin",
@@ -1080,7 +1080,7 @@
         "rating": "5.3",
         "status": "Complete",
         "tag": "Cosplay",
-        "type": "Lewd",
+        "type": ["Cosplay", "Lewd"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "lepaudam-natal",
@@ -1190,7 +1190,7 @@
         "rating": "4.3",
         "status": "Complete",
         "tag": "Cosplay",
-        "type": "Milf",
+        "type": ["Cosplay", "Milf", "Game"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "mommy-kafka",
@@ -1253,8 +1253,8 @@
         "genre": ["Historical fiction", "Samurai-era", "Punishment", "Tentacle"],
         "rating": "4.7",
         "status": "Complete",
-        "tag": "Cosplay",
-        "type": "Tentacle",
+        "tag": "Ai Generate",
+        "type": ["Ai Generate", "Anime"],
         "donlot": "https://ouo.io/k3xtYf",
         "stream": "",
         "slug": "yamada-asaemon",
@@ -1265,6 +1265,210 @@
                 "sinopsis": "peringkat tidak selalu menentukan kekuatan Asaemon. ",
                 "images": [
                     "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Yamada-Asaemon-Sagiri-Jigoku/Yamada-Asaemon-Sagiri-Jigoku.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "YoRHa No. 2 Type B (Nier: Automata)",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Yorha-no2-TypeB/gambar.jpeg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Yorha-no2-TypeB/tamnel.webp",
+        "description": "berlatar belakang tahun 11945 di Bumi pasca-apokaliptik yang ditinggalkan umat manusia. Bumi telah diduduki oleh alien, yang berperang menggunakan pasukan Machine Lifeforms.",
+        "author": "Akihiko Yoshida",
+        "genre": ["Machine", "Action", "Futanari"],
+        "rating": "5.05",
+        "status": "Complete",
+        "tag": "Ai Generate",
+        "type": ["Ai Generate", "Anime", "Game", "Fan Art"],
+        "donlot": "https://ouo.io/k3xtYf",
+        "stream": "",
+        "slug": "yorha2b-nier-automata",
+        "chapters": [
+            {
+                "chapter": 1,
+                "judul": "YoRHa 2B Nier: Automata",
+                "sinopsis": "setelah menduduki bumi beberapa tahun yorha memutuskan eksperimen di bumi dengan mengubah dirinya menjadi futanari dan mengentot bersama manusia buatannya sendiri atau dengan android lain",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/Yorha-no2-TypeB/Yorha-no2-TypeB.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "九言 – Nahida",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/02_Nahida_2.jpg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/29_Nahida_29.jpg",
+        "description": "Lesser Lord Kusanali yang tinggal di Sanctuary of Surasthana, selalu dipandang remeh dan jarang dibicarakan orang-orang. Dia memikul beban yang berat, meskipun selalu diselimuti dalam kegelapan dan kesepian, dia tidak pernah berhenti melangkah maju.",
+        "author": "Marco Wutz",
+        "genre": ["Colmek", "Game", "Memek"],
+        "rating": "5.80",
+        "status": "Complete",
+        "tag": "Cosplay",
+        "type": ["Cosplay", "Game"],
+        "donlot": "https://ouo.io/k3xtYf",
+        "stream": "",
+        "slug": "nahida-salto",
+        "chapters": [
+            {
+                "chapter": 1,
+                "judul": "九言 – Nahida (Cosplay) part 1",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/01_Nahida_1.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/02_Nahida_2.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/03_Nahida_3.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/04_Nahida_4.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/05_Nahida_5.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/06_Nahida_6.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/07_Nahida_7.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/08_Nahida_8.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/09_Nahida_9.jpg"
+                ]
+            },
+            {
+                "chapter": 2,
+                "judul": "九言 – Nahida (Cosplay) part 2",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/10_Nahida_10.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/11_Nahida_11.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/12_Nahida_12.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/13_Nahida_13.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/14_Nahida_14.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/15_Nahida_15.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/16_Nahida_16.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/17_Nahida_17.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/18_Nahida_18.jpg"
+                ]
+            },
+            {
+                "chapter": 3,
+                "judul": "九言 – Nahida (Cosplay) part 3",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/19_Nahida_19.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/20_Nahida_20.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/21_Nahida_21.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/22_Nahida_22.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/23_Nahida_23.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/24_Nahida_24.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/25_Nahida_25.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/26_Nahida_26.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/27_Nahida_27.jpg"
+                ]
+            },
+            {
+                "chapter": 4,
+                "judul": "九言 – Nahida (Cosplay) part 4",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/28_Nahida_28.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/29_Nahida_29.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/30_Nahida_30.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/31_Nahida_31.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/32_Nahida_32.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/33_Nahida_33.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/34_Nahida_34.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/35_Nahida_35.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/36_Nahida_36.jpg"
+                ]
+            },
+            {
+                "chapter": 5,
+                "judul": "九言 – Nahida (Cosplay) part 5",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/37_Nahida_37.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/38_Nahida_38.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/39_Nahida_39.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/40_Nahida_40.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/41_Nahida_41.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/42_Nahida_42.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/43_Nahida_43.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/44_Nahida_44.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/45_Nahida_45.jpg"
+                ]
+            },
+            {
+                "chapter": 6,
+                "judul": "九言 – Nahida (Cosplay) part 6",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/46_Nahida_46.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/47_Nahida_47.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/48_Nahida_48.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/49_Nahida_49.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/50_Nahida_50.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/51_Nahida_51.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/52_Nahida_52.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/53_Nahida_53.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20%E2%80%93%20Nahida/54_Nahida_54.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "九言 - 胡桃",
+        "gambar": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/01.jpg",
+        "tamnel": "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/26.jpg",
+        "description": "gtw nih karakter apa dia lagi kospley keknya hutao tapi bukan hutao genshin klo k salah karakter dari game naraka bladepoint",
+        "author": "Marco Wutz",
+        "genre": ["Colmek", "Game", "Memek"],
+        "rating": "4.17",
+        "status": "Complete",
+        "tag": "Cosplay",
+        "type": ["Cosplay", "Game"],
+        "donlot": "https://ouo.io/k3xtYf",
+        "stream": "",
+        "slug": "huta-blade",
+        "chapters": [
+            {
+                "chapter": 1,
+                "judul": "九言 - 胡桃 part 1",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/01.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/02.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/03.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/04.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/05.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/06.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/07.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/08.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/09.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/10.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/11.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/12.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/13.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/14.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/15.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/16.jpg"
+                ]
+            },
+            {
+                "chapter": 2,
+                "judul": "九言 - 胡桃 part 2",
+                "sinopsis": "Rerumputan putih yang murni dan musim semi terlahir kembali dari kedalaman istana",
+                "images": [
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/17.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/18.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/19.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/20.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/21.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/22.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/23.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/24.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/24.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/25.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/26.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/27.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/28.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/29.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/30.jpg",
+                    "https://raw.githubusercontent.com/Cihuy-collab/Aplod/refs/heads/main/HGambar/%E4%B9%9D%E8%A8%80%20-%20%E8%83%A1%E6%A1%83%20(merah)/31.jpg"
                 ]
             }
         ]
